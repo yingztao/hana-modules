@@ -1,2 +1,5 @@
+#!name=佩奇影业专用规则
+#!desc=给佩奇影业专用的简单代理规则，走美国节点。
+
 [Rule]
 DOMAIN,emby.nexitally.com,美国 13
