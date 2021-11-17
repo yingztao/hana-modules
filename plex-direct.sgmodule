@@ -1,0 +1,5 @@
+#!name=Plex 直连
+#!desc=让 Plex 服务走直连
+
+[Rule]
+DOMAIN-KEYWORD,plex,DIRECT
