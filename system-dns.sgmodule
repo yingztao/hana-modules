@@ -1,0 +1,5 @@
+#!name=使用系统 DNS
+#!desc=如题
+
+[Rule]
+dns-server = system
