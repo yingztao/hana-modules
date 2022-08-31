@@ -1,0 +1,5 @@
+#!name=使用自建 Adguard Home
+#!desc=如题
+
+[General]
+dns-server = 158.247.193.26
