@@ -1,6 +1,8 @@
-#!name=自用 Roon 专用代理设置
-#!desc=让 Roon 地址走直连
+#!name=自用代理设置
+#!desc=自用代理设置
 
 [Rule]
+
+## Roon 走直连 
 DOMAIN-KEYWORD,roonlab,DIRECT
 IP-CIDR6,::ffff:10.135.1.18/128,DIRECT
