@@ -1,0 +1,5 @@
+#!name=macOS 部分应用走直连
+#!desc=仅用于 macOS 版 Surge，让规则内的应用走直连。
+
+[Rule]
+PROCESS-NAME,ipfs,DIRECT
