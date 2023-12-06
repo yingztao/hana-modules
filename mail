@@ -1,0 +1,7 @@
+#!name=iCloud 邮箱、Gmail 邮箱发信服务走直连
+#!desc=让iCloud 邮箱、Gmail 邮箱发信服务走直连走直连
+
+[Rule]
+DOMAIN-KEYWORD,plex,DIRECT
+DOMAIN-SUFFIX,smtp.gmail.com,DIRECT
+DOMAIN-SUFFIX,mail.me.com,DIRECT
