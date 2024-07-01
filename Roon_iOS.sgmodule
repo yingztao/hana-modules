@@ -3,6 +3,6 @@
 
 [Rule]
 
-## Roon 走直连 
-DOMAIN-KEYWORD,roonlab,DIRECT
-IP-CIDR6,::ffff:92.168.0.21/128,DIRECT
+## RoonArc 走直连 
+DEST-PORT,55001,DIRECT
+IN-PORT,55001,DIRECT
