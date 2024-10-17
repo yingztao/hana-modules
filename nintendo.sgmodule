@@ -2,4 +2,4 @@
 #!desc=nintendo.com 走代理
 
 [Rule]
-DOMAIN-SUFFIX,nintendo.com,FINAL
+DOMAIN-SUFFIX,nintendo.com,🧭 Final
