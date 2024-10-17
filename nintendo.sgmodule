@@ -1,0 +1,5 @@
+#!name=nintendo.com 走代理
+#!desc=nintendo.com 走代理
+
+[Rule]
+DOMAIN-SUFFIX,nintendo.com,FINAL
